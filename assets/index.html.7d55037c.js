@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-51f86e14","path":"/docker/","title":"Docker","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1656609515000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"docker/README.md"}');export{e as data};

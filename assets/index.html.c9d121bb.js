@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-14dd7f49","path":"/kube/","title":"Kubernetes \u96C6\u7FA4","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1657480595000,"contributors":[{"name":"deancn","email":"dean@airdb.com","commits":1}]},"filePathRelative":"kube/README.md"}');export{e as data};
